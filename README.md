@@ -5,10 +5,7 @@ GitHub Repository - https://github.com/AngRoy/BrainDead2k24_Problem1
 
 <h2>Rice Production Analysis and Prediction</h2>
 
-<h3>Model Used:</h3>
-We employed the Autoregressive Integrated Moving Average (ARIMA) model to forecast rice production. Specifically, we utilized the AutoARIMA method available in the pmdarima (Pyramid ARIMA) library in Python for time series forecasting.
-
-<h3>Methodology:</h3>
+⭐ <h3>Methodology:</h3>
 
 <h4>Data Exploration and Processing</h4>
 We began our analysis by performing all necessary Exploratory Data Analysis (EDA) steps to gain insights into the dataset's structure and characteristics.
@@ -20,12 +17,15 @@ To gain deeper insights into the rice production data, we employed various visua
 <h4>Pie Charts</h4> Provided a visual representation of the contribution of each state or union territory to the total rice production.
 <h4>Heatmaps</h4> Illustrated the correlation between rice production and other relevant factors, such as rainfall, temperature, and agricultural practices.
 
+⭐ <h3>Model Used for Forecasting:</h3>
+We employed the Autoregressive Integrated Moving Average (ARIMA) model to forecast rice production. Specifically, we utilized the AutoARIMA method available in the pmdarima (Pyramid ARIMA) library in Python for time series forecasting.
+
 <h1>Problem Statement 2</h1>
 GitHub Repository - https://github.com/riyaa14/BrainDead_Hackathon
 
 <h2>Multimodal Hate Speech Detection Project</h2>
 
-<h3>Models Used:</h3>
+⭐ <h3>Models Used:</h3>
 We have implemented several models and evaluated their performance based on the Area Under the Curve (AUC) metric:
 
 <h4>1. Visual BERT</h4>
@@ -58,7 +58,7 @@ Description: This model combines FastText word embeddings with image embeddings 
 
 [Final Model](https://github.com/riyaa14/BrainDead_Hackathon/blob/main/FastText%2BVGG19_Embeddings.ipynb) which combines these embeddings and classifies the memes 
 
-<h3> Future Optimization Strategies - </h3>
+⭐ <h3> Future Optimization Strategies - </h3>
 
 1. Ensembling these models: Since every model has its strengths and weaknesses, by combining the predictions of multiple models, ensembling can mitigate individual model biases and errors, leading to improved overall performance.
 2. We can improve on Image Caption Generation and relating it with the text data.
