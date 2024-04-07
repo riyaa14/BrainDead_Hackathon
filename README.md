@@ -1,7 +1,7 @@
-REPORT LINK: https://www.canva.com/design/DAGBi0HYSrE/_hTD0LN3rP47EzJ-18ctQA/view?utm_content=DAGBi0HYSrE&utm_campaign=designshare&utm_medium=link&utm_source=editor
+[REPORT LINK](https://www.canva.com/design/DAGBi0HYSrE/_hTD0LN3rP47EzJ-18ctQA/view?utm_content=DAGBi0HYSrE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 <h1>Problem Statement 1</h1>
-GitHub Repository - https://github.com/AngRoy/BrainDead2k24_Problem1
+[GitHub Repository for Problem Statement 1](https://github.com/AngRoy/BrainDead2k24_Problem1)
 
 <h2>Rice Production Analysis and Prediction</h2>
 
@@ -21,7 +21,7 @@ To gain deeper insights into the rice production data, we employed various visua
 <h4>Heatmaps</h4> Illustrated the correlation between rice production and other relevant factors, such as rainfall, temperature, and agricultural practices.
 
 <h1>Problem Statement 2</h1>
-GitHub Repository - https://github.com/riyaa14/BrainDead_Hackathon
+[GitHub Repository for Problem Statement 2](https://github.com/riyaa14/BrainDead_Hackathon)
 
 <h2>Multimodal Hate Speech Detection Project</h2>
 
