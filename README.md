@@ -7,15 +7,15 @@ GitHub Repository - https://github.com/AngRoy/BrainDead2k24_Problem1
 
 <h3>⭐ Methodology:</h3>
 
-<h4>Data Exploration and Processing</h4>
+1. <h4>Data Exploration and Processing</h4>
 We began our analysis by performing all necessary Exploratory Data Analysis (EDA) steps to gain insights into the dataset's structure and characteristics.
 
-<h4>Data Visualisation</h4>
+2. <h4>Data Visualisation</h4>
 To gain deeper insights into the rice production data, we employed various visualization techniques, including:
 
-<h4>Box Plots</h4> Used to visualize the distribution of rice production across different states and identify outliers.
-<h4>Pie Charts</h4> Provided a visual representation of the contribution of each state or union territory to the total rice production.
-<h4>Heatmaps</h4> Illustrated the correlation between rice production and other relevant factors, such as rainfall, temperature, and agricultural practices.
+- <h4>Box Plots</h4> Used to visualize the distribution of rice production across different states and identify outliers.
+- <h4>Pie Charts</h4> Provided a visual representation of the contribution of each state or union territory to the total rice production.
+- <h4>Heatmaps</h4> Illustrated the correlation between rice production and other relevant factors, such as rainfall, temperature, and agricultural practices.
 
 <h3>⭐ Model Used for Forecasting:</h3>
 We employed the Autoregressive Integrated Moving Average (ARIMA) model to forecast rice production. Specifically, we utilized the AutoARIMA method available in the pmdarima (Pyramid ARIMA) library in Python for time series forecasting.
