@@ -46,7 +46,8 @@ Description: This model combines FastText word embeddings with image embeddings 
 
 <h3> Future Optimization Strategies - </h3>
 1. Ensembling these models: Since every model has its strengths and weaknesses, by combining the predictions of multiple models, ensembling can mitigate individual model biases and errors, leading to improved overall performance.
+
 2. We can improve on Image Caption Generation and relating it with the text data.
 3. Better Image embeddings and text embeddings can further improve results.
 4. Model Interpretability: We can enhance the interpretability of our models by incorporating attention mechanisms or visualization techniques.
-5. Model Architecture: Experimenting with different model architectures. This could involve modifying network depths, adding attention mechanisms, or incorporating novel components specific to multimodal learning.
+5. Model Architecture: Experimenting with different model architectures. This could involve modifying network depths, adding attention mechanisms, or incorporating novel components specific to multimodal learning. 
